@@ -90,7 +90,7 @@ python main.py
 
 
 ## 📁 Dosya Yapısı
-
+```
 python-syntax-highlighter/
 │
 ├── main.py              # Çalıştırma kodu ve örnek kod yükleme
@@ -98,7 +98,7 @@ python-syntax-highlighter/
 ├── parser.py            # Recursive descent parser
 ├── highlighter.py       # GUI ve Renklendirme sınıfı
 └── README.md            # Bu dosya
-
+```
 
 ---
 
