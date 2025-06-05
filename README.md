@@ -4,7 +4,7 @@ Bu proje, Python diline özel olarak hazırlanmış bir **sözdizimi vurgulayıc
 
 Hiçbir harici kütüphane kullanmadan, sıfırdan bir lexer ve parser geliştirilmiştir.
 
-[👉 Demo videosu için tıklayınız]()
+[👉 Demo videosu için tıklayınız](https://youtu.be/7w5ISfNn26Q)
 
 
 
