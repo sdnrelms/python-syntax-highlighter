@@ -6,7 +6,7 @@ Hiçbir harici kütüphane kullanmadan, sıfırdan bir lexer ve parser geliştir
 
 [👉 Demo videosu için tıklayınız]()
 
----
+
 
 ## 🎯 Mevcut Özellikler
 
@@ -22,7 +22,7 @@ Hiçbir harici kütüphane kullanmadan, sıfırdan bir lexer ve parser geliştir
 - ✅ Çok satırlı string desteği
 - ✅ Class ve fonksiyon tanımları
 
----
+
 
 ## 🗝️ Kullanılan Teknikler
 
@@ -34,7 +34,7 @@ Hiçbir harici kütüphane kullanmadan, sıfırdan bir lexer ve parser geliştir
 | **SyntaxHighlighter** | `class SyntaxHighlighter`: Token’lara göre renklendirme yapar |
 | **GUI**           | `Tkinter` ile özelleştirilmiş yazı alanı, satır numarası, sonuç paneli |
 
----
+
 
 ## 🎨 Renklendirme Şeması
 
@@ -50,7 +50,7 @@ Hiçbir harici kütüphane kullanmadan, sıfırdan bir lexer ve parser geliştir
 | `OPERATOR`  | Sarı (#d5e98f)   | `+`, `-`, `==`, `>`  |
 | `DELIMITER` | Sarı (#d5e98f)   |  `[`, `]`, `(`,`)`, `:`|
 
----
+
 
 ## 📸 Ekran Görüntüsü
 
@@ -64,7 +64,7 @@ Hiçbir harici kütüphane kullanmadan, sıfırdan bir lexer ve parser geliştir
 
 
 
----
+
 
 
 ## 🚀 Nasıl Çalıştırılır?
@@ -86,7 +86,7 @@ cd python-syntax-highlighter
 python main.py
 ```
 
----
+
 
 
 ## 📁 Dosya Yapısı
@@ -100,7 +100,7 @@ python-syntax-highlighter/
 └── README.md            # Bu dosya
 ```
 
----
+
 
 ## ⚙️ Detaylı Teknik Açıklaması
 
