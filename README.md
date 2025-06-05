@@ -262,3 +262,35 @@ def highlight(self, text):
 ```
 
 
+
+#### 🖼️ GUI (Tkinter)
+- Gerçek zamanlı sözdizim vurgulama (real-time syntax highlighting) işlevini kullanıcı dostu bir arayüz ile sunar. GUI, Python'da Tkinter kütüphanesi kullanılarak geliştirilmiştir.
+
+Temel Özellikler
+- AST Görselleştirme:
+  - Kod yazıldıkça lexer ve parser çalışır.
+
+  - Başarılıysa AST hiyerarşik şekilde görüntülenir.
+
+  - Hatalıysa hata mesajı ve pozisyon bilgisi gösterilir.
+
+
+- Satır Numaraları:
+
+  - Kod penceresinin soluna otomatik olarak satır numaraları eklenir.
+
+  - Yazı değiştikçe veya pencere kaydırıldıkça güncellenir.
+
+
+  ```
+  class LineNumbers(tk.Text):
+    """
+    Satır numaralarını gösteren özel Text widget.
+    
+    - `text_widget` ile ana kod alanına bağlanır.
+    - `<<Change>>` ve `scroll` event’lerine tepki vererek
+      satır numaralarını otomatik günceller.
+    """
+  ```
+
+
