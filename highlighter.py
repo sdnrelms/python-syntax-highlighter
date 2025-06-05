@@ -169,7 +169,7 @@ class LineNumbers(tk.Text):
         self.sync_scroll()
 
 
-#satır numaraları ve highlighting guncellemesini saglamak için eklendi
+#satır numaraları ve highlighting özellikleri eklemek için oluşturuldu
 class CustomText(tk.Text):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
