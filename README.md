@@ -55,12 +55,12 @@ Hiçbir harici kütüphane kullanmadan, sıfırdan bir lexer ve parser geliştir
 ## 📸 Ekran Görüntüsü
 
 - Başarılı Parsing
-![basarili_parse](img/image1.png)
+![basarili_parse](https://github.com/sdnrelms/python-syntax-highlighter/blob/main/img/image1.png)
 
 
 
 - Hatalı Parsing
-![basarisiz_parse](img/image.png)
+![basarisiz_parse](https://github.com/sdnrelms/python-syntax-highlighter/blob/main/img/image.png)
 
 
 
