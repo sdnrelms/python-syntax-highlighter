@@ -6,7 +6,9 @@ Hiçbir harici kütüphane kullanmadan, sıfırdan bir lexer ve parser geliştir
 
 👉 [Demo videosu için tıklayınız](https://youtu.be/7w5ISfNn26Q)
 <br>
-📃 [Medium yazısı için tıklayınız](https://medium.com/@sudenurelmas08/python-i%C3%A7in-ger%C3%A7ek-zamanl%C4%B1-s%C3%B6zdizimi-vurgulay%C4%B1c%C4%B1-1bc6307e416a)
+📑 [Medium yazısı için tıklayınız](https://medium.com/@sudenurelmas08/python-i%C3%A7in-ger%C3%A7ek-zamanl%C4%B1-s%C3%B6zdizimi-vurgulay%C4%B1c%C4%B1-1bc6307e416a)
+<br>
+🖊️ [Dokümantasyon için tıklayınız](https://github.com/sdnrelms/python-syntax-highlighter/blob/main/syntax_highlighter_doc_sudenurelmas.pdf)
 
 
 
