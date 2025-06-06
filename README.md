@@ -97,7 +97,7 @@ python main.py
 ```
 python-syntax-highlighter/
 │
-├── main.py              # Çalıştırma kodu ve örnek kod yükleme
+├── main.py              # GUI, çalıştırma kodu ve örnek kod yükleme
 ├── lexer.py             # Tokenizer sınıfı
 ├── parser.py            # Recursive descent parser
 ├── highlighter.py       # GUI ve Renklendirme sınıfı
