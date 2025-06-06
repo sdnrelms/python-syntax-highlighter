@@ -101,6 +101,8 @@ python-syntax-highlighter/
 ├── lexer.py             # Tokenizer sınıfı
 ├── parser.py            # Recursive descent parser
 ├── highlighter.py       # GUI ve Renklendirme sınıfı
+├── img                  # Proje ekran görüntüleri
+├── syntax_highlighter_doc_sudenurelmas.pdf
 └── README.md            # Bu dosya
 ```
 
