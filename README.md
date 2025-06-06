@@ -8,7 +8,7 @@ Hiçbir harici kütüphane kullanmadan, sıfırdan bir lexer ve parser geliştir
 <br>
 📑 [Medium yazısı için tıklayınız](https://medium.com/@sudenurelmas08/python-i%C3%A7in-ger%C3%A7ek-zamanl%C4%B1-s%C3%B6zdizimi-vurgulay%C4%B1c%C4%B1-1bc6307e416a)
 <br>
-🖊️ [Dokümantasyon için tıklayınız](https://github.com/sdnrelms/python-syntax-highlighter/blob/main/syntax_highlighter_doc_sudenurelmas.pdf)
+🖊️ [Dokümantasyon için tıklayınız](https://github.com/sdnrelms/python-syntax-highlighter/blob/main/rapor_sudenurelmas.pdf)
 
 
 
@@ -102,8 +102,8 @@ python-syntax-highlighter/
 ├── parser.py            # Recursive descent parser
 ├── highlighter.py       # GUI ve Renklendirme sınıfı
 ├── img                  # Proje ekran görüntüleri
-├── syntax_highlighter_doc_sudenurelmas.pdf
-└── README.md            # Bu dosya
+├── README.md            # Bu dosya
+└── rapor_sudenurelmas.pdf # Proje dokümanı
 ```
 
 
